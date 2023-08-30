@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55179641914",
+    "project_id": "seng31323-2023-kmm",
+    "storage_bucket": "seng31323-2023-kmm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55179641914:android:9a16c656e488aa353d2103",
+        "android_client_info": {
+          "package_name": "com.hrandika.seng31323_2023_kmm.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55179641914-a15ue1ngb545tljbu345kjcaivrmvmha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL0y2PuDlTChDbEca1FIcJxwRS0NSMwFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55179641914-a15ue1ngb545tljbu345kjcaivrmvmha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
